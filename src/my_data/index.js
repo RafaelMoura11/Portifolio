@@ -5,7 +5,7 @@ const MY_DATA = {
     about: {
       intro: 'Olá! Eu sou o Rafael Moura e moro em Recife-PE.',
       goals: 'Entrei no mundo da programação na metade de 2021 e foi paixão a primeira vista. Quando percebi que eu gostava de resolver problemas através da lógica, eu automaticamente entrei de cabeça no mundo da Tecnologia.',
-      formation: 'Irei finalizar meus estudos na Trybe em agosto de 2022. A Trybe é uma escola de programação com mais de 1500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.',
+      formation: 'Me tornei um Desenvolvedor Fullstack em agosto de 2022 na Trybe, uma escola de programação com mais de 1500 horas de aulas. Atualmente estou estudando Análise e Desenvolvimento de Sistemas no SENAC. Estou sempre em busca de mais conhecimento e espandir ainda mais o que eu sei.',
     },
 
     skills: [
